@@ -7,14 +7,29 @@ public:
         
         while(l<h){
             int m=l+(h-l)/2;
-            if(nums[m]<nums[m+1]){
+            if(m==n-1){
+                if(nums[m]>nums[m-1]){
+                    return m;
+                }
+                else h=m-1;
+            }
+
+            else if(m==0){
+                if(nums[m]>nums[m+1]){
+                    return m;
+                }
+                else l=m+1;
+            }
+
+            else if(nums[m]<nums[m+1]){
                 l=m+1;
             }
-            else{
+            else if(nums[m]>nums[m+1]){
                 h=m;
             }
+            
         }
-        return l;
+        return h;
         
     }
 };
