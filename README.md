@@ -63,8 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ambadeanshul/Leetcode/tree/master/0242-valid-anagram) |
+| [4053-majority-frequency-characters](https://github.com/ambadeanshul/Leetcode/tree/master/4053-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ambadeanshul/Leetcode/tree/master/0242-valid-anagram) |
+| [4053-majority-frequency-characters](https://github.com/ambadeanshul/Leetcode/tree/master/4053-majority-frequency-characters) |
+## Counting
+|  |
+| ------- |
+| [4053-majority-frequency-characters](https://github.com/ambadeanshul/Leetcode/tree/master/4053-majority-frequency-characters) |
 <!---LeetCode Topics End-->
