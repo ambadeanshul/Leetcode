@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4053-majority-frequency-characters](https://github.com/ambadeanshul/Leetcode/tree/master/4053-majority-frequency-characters) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ambadeanshul/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ambadeanshul/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
